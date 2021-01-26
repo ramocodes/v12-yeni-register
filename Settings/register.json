@@ -1,0 +1,25 @@
+{
+    "info": {
+    "tag": "TAGINIZI GİRİNİZ",
+    "yaşsınırı": "YAŞ SINIRI MESELA Bİ KULLANICI 10 YAŞINDAYSA O KAYIT OLAMIYOR İSTEDİĞİNİ GİBİ AYARLAYABİLİRSİNİZ RAKAM OLARAK GİRİN"
+    },
+    "roles": {
+    "erkek": ["ERKEK ROL 1","ERKEK ROL 2", "SADECE 1 TANE ERKEK ROLÜNÜZ VARSA TIRNAKLARI SİLİN"],
+    "kadın": ["KADIN ROL 1","KADIN ROL 2", "SADECE 1 TANE KADIN ROLÜNÜZ VARSA TIRNAKLARI SİLİN "],
+    "unregister": "UNREGİSTER ROLÜNÜZÜ GİRİNİZ",
+    "tagrole": "TAG ROLÜNÜZÜ GİRİNİZ",
+    "yetkilirole": ["YETKİLİ ROL 1","VARSA DAHA GİRİN YOKSA TIRNAKLARI SİLİN",""]
+    },
+    "channels": {
+    "log": "LOG KANALINIZ YOKSA OLUŞTURUP İDSİNİ GİRİNİZ",
+    "welcomelog": "HOŞ GELDİN KANALI İDSİNİ GİRİNİZ"
+    },
+    "bots": {
+    "prefix": "PREFİXİNİZ GİRİNİZ",
+    "token": "BOT TOKENİNİZİ GİRİNİZ",
+    "botstatus": "BOT DURUMUNUZDA NE GÖZÜKECEKSE ONU GİRİNİZ"
+    },
+    "owners": {
+        "ownerid": "OWNER İD GİRİNİZ"
+    }
+}
